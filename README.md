@@ -9,4 +9,4 @@ This Repo is all about questions that I am expecting during interview session.
 Contents:
 ==========
 
-1. [General Questions](https://github.com/lttesp/interviewprep/blob/master/general.md)
+1. [General Interview Questions](https://github.com/lttesp/interviewprep/blob/master/general.md)
